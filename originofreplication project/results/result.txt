@@ -1,2 +1,0 @@
-Minimum Skew Positions(likely origin of replication): 
-[3925597, 3925598, 3925599, 3925600]
